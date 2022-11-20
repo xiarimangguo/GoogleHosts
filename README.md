@@ -1,7 +1,7 @@
 # GoogleHosts
-感谢[@dahisea](https://github.com/dahisea)提供的IP地址啦～  
-大家快来访问这个项目支持一下啦～  
-[谷歌 googlehosts in china](https://github.com/dahisea/google-hosts-china-translate-and-search)
+>感谢[@dahisea](https://github.com/dahisea)提供的IP地址啦～  
+>大家快来访问这个项目支持一下啦～  
+>[google-hosts-china-translate-and-search: 谷歌翻译 google hosts ，尝试修复](https://github.com/dahisea/google-hosts-china-translate-and-search)
 
 这是一个可以让你直连Google的东东~  
 不用魔法上网，即可享受Google的高速服务!
